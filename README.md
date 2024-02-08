@@ -23,7 +23,7 @@ My toolkit is a blend of modern and essential technologies that empower me to bu
 
 ### 💼 **Professional Milestones**
 
-**Globant | NODE JS DEVELOPER | July 2021 - Present**
+**[Globant](https://www.globant.com/) | NODE JS DEVELOPER | July 2021 - Present**
 
 - **Frontend Developer | Virtual Bank (Sucursal Virtual) | Santander (May 2023 – Jan 2024)**
   
@@ -33,7 +33,7 @@ My toolkit is a blend of modern and essential technologies that empower me to bu
   
   Directed test automation initiatives across multiple projects, facilitating international collaboration and implementing a cutting-edge JavaScript testing framework, enhancing product quality and team efficiency.
 
-**Quantum Studios | JR FULLSTACK | Aug 2020 - Jul 2021**
+**[Quantum Studios](https://www.quantumstudios.dev/) | JR FULLSTACK | Aug 2020 - Jul 2021**
 
 - **Quantum Studios Page & Ambotani**
   
