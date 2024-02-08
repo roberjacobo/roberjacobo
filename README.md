@@ -1,68 +1,64 @@
 # **JOSE ROBERTO JACOBO CRUZ**
-## **Software Developer Extraordinaire**
+## **Innovative Software Developer**
 
 ---
 
-### 🌟 **About Me**
+### 🌐 **Who I Am**
 
-A **Versatile Full-Stack Developer** with an enriching five-year journey in the software industry, I've navigated through various domains from **Full-Stack Solutions** to **Test Automation** and recently dived deep into **Frontend Development**. My adventure has been about more than just coding; it's a continuous learning path where I've crafted engaging user interfaces and ensured the software's quality. With a knack for understanding the **Software Development Lifecycle** in its entirety, I've excelled in collaborating with international teams and leading companies, always ensuring successful project deliveries.
-
----
-
-### 💻 **Tech Toolkit**
-
-I bring to the table proficiency in a versatile array of technologies, including:
-
-- **Node.js** & **Express** for backend services
-- **Angular** for dynamic and responsive frontend interfaces
-- Mastery in **TypeScript** & **JavaScript** for seamless development across the stack
-- Database management with **SQL** & **NoSQL**
-- Code collaboration and version control with **Git**
-- Automation testing expertise with **WebdriverIO** & **Selenium**
-- Programming in **Python** for various scripting and automation tasks
+A **dynamic Full-Stack Developer** with a robust five-year journey through the realms of software development. My expertise spans from crafting **scalable Full-Stack applications** to pioneering in **Frontend Development** and **Test Automation**. Along this journey, I've mastered the art of creating compelling user interfaces and enhancing software quality, underpinned by a deep understanding of the **Software Development Lifecycle**. My ability to seamlessly integrate into and lead cross-functional teams has been instrumental in delivering high-impact solutions to top-tier global companies.
 
 ---
 
-### 🛠 **Professional Experience**
+### 🔧 **Technological Arsenal**
+
+My toolkit is a blend of modern and essential technologies that empower me to build and innovate:
+
+- **Frontend to Backend**: Proficient in **Angular**, **Node.js**, and **Express**
+- **Languages**: Fluent in **TypeScript**, **JavaScript**, and **Python**
+- **Databases**: Skilled in both **SQL** and **NoSQL** databases for comprehensive data solutions
+- **Version Control**: Advanced usage of **Git** for effective team collaboration and code management
+- **Test Automation**: Expertise in **WebdriverIO** and **Selenium** for ensuring software reliability and performance
+
+---
+
+### 💼 **Professional Milestones**
 
 **Globant | NODE JS DEVELOPER | July 2021 - Present**
 
-- **Virtual Bank (Sucursal Virtual) | Santander (May 2023 – Jan 2024)**
+- **Frontend Developer | Virtual Bank (Sucursal Virtual) | Santander (May 2023 – Jan 2024)**
   
-  Spearheaded frontend development, eliminating the need for physical paperwork with Angular 14 and Node.js, enhancing user experience for bank customers.
+  Led the development of frontend services for the Virtual Bank platform using **Angular 14** and **Node.js**, revolutionizing customer interactions by digitizing traditional paperwork processes.
 
-- **Internal Training (May 2023)**
+- **Regression Test Engineer | HBO Max, Libby & Discovery+ | Warner Bros Discovery (Jul 2021 – May 2023)**
   
-  Enhanced RESTful API development with Node.js and Express, refining skills in code reviews, debugging, and performance optimization.
-
-- **Regression Test | HBO Max, Libby & Discovery+ (Jul 2021 – May 2023)**
-  
-  Led test automation for major streaming platforms, collaborating across continents to implement and maintain a new JavaScript testing framework.
+  Directed test automation initiatives across multiple projects, facilitating international collaboration and implementing a cutting-edge JavaScript testing framework, enhancing product quality and team efficiency.
 
 **Quantum Studios | JR FULLSTACK | Aug 2020 - Jul 2021**
 
-- **Quantum Studios Page Development & Ambotani (2021)**
+- **Quantum Studios Page & Ambotani**
   
-  Actively participated in agile meetings, decision-making, and developed Google Cloud Functions and MongoDB for SaaS products.
-
-- **Full Stack Mutual System | [Funerales Paz](http://www.funeralesrpaz.com.mx/) (Aug 2020 – Jun 2021)**
-  
-  Orchestrated the full-stack migration of a mutual aid system to a modern tech stack including Google Cloud, Gatsbyjs, Node.js, React, and MongoDB.
+  Contributed to key projects by engaging in agile development practices, creating Google Cloud Functions, and handling MongoDB databases, thereby driving Quantum Studios' technological advancement.
 
 ---
 
-### 📋 **Project Management Tools**
+### 🚀 **Project Management Proficiency**
 
-- Proficient in **JIRA** and **Confluence** for project tracking and documentation
-- Skilled in using **GitHub** and **GitLab** for source code management and CI/CD practices
+- **Organizational Tools**: Mastery in **JIRA** and **Confluence** for seamless project tracking and documentation
+- **Source Control**: Adept in leveraging **GitHub** and **GitLab** for robust version control and streamlined CI/CD pipelines
 
 ---
 
-### 🌍 **Languages**
+### 🌎 **Languages Spoken**
 
-- **Spanish** (Native)
-- **English** (B2 - Fluent)
+- **Español** (Native)
+- **English** (Fluent - B2 Level)
+
+---
+
+### 🔗 **Explore My Work**
+
+Curious about my projects? Visit my portfolio at [www.robjacobo.dev](http://www.robjacobo.dev).
 
 --- 
 
-🔍 *Eager to embark on new challenges, I am on the lookout for opportunities to bring innovative ideas to life and make a significant impact in the tech world.*
+🌟 *Driven by innovation and the pursuit of excellence, I am constantly exploring new technologies and methodologies to develop solutions that make a difference. Ready to tackle the challenges of tomorrow, I am looking for opportunities to leave a lasting impact in the tech industry.*
