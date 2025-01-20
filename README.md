@@ -5,7 +5,7 @@
 
 ### 🌐 **Who I Am**  
 
-A **dynamic Full-Stack Developer** with a robust five-year journey through the realms of software development. My expertise spans from crafting **scalable Full-Stack applications** to pioneering in **Frontend Development**, **Test Automation**, and the **integration of cutting-edge AI technologies**. Along this journey, I've mastered the art of creating compelling user interfaces, enhancing software quality, and leveraging **Large Language Models (LLMs)** for innovative solutions. My ability to seamlessly integrate into and lead cross-functional teams has been instrumental in delivering high-impact solutions to top-tier global companies.  
+A **dynamic Full-Stack Developer** with a robust six-year journey through the realms of software development. My expertise spans from crafting **scalable Full-Stack applications** to pioneering in **Frontend Development**, **Test Automation**, and the **integration of cutting-edge AI technologies**. Along this journey, I've mastered the art of creating compelling user interfaces, enhancing software quality, and leveraging **Large Language Models (LLMs)** for innovative solutions. My ability to seamlessly integrate into and lead cross-functional teams has been instrumental in delivering high-impact solutions to top-tier global companies.  
 
 ---
 
